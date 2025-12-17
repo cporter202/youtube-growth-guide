@@ -14,7 +14,6 @@
 ![Tools](https://img.shields.io/badge/TOOLS-12-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge)
 ![Updated](https://img.shields.io/badge/UPDATED-2025-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)
 
 **Guides:** 6 Comprehensive Guides | **Tools:** 12 Creator Unlock Tools | **Status:** Active Development | **Updated:** 2025
 
