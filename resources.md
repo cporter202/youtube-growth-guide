@@ -354,5 +354,5 @@ This guide is completely free and open source. If you find it valuable:
 
 ---
 
-*Last updated: 2024*
+*Last updated: 2025*
 

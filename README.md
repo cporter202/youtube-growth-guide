@@ -1,6 +1,12 @@
+<div align="center">
+
 # 🚀 The Ultimate YouTube Growth Guide
 
-> **Stop guessing. Start winning.** The ultimate open-source YouTube growth guide inspired by [Creator Unlock](https://creatorunlock.com?fpr=chris95). Master the N.I.C.E.R. framework for channel audits, niche research, video ideation, thumbnail & title optimization, and data-backed growth strategies.
+**Stop guessing. Start winning.** The ultimate open-source YouTube growth guide inspired by [Creator Unlock](https://creatorunlock.com?fpr=chris95). Master the N.I.C.E.R. framework for channel audits, niche research, video ideation, thumbnail & title optimization, and data-backed growth strategies.
+
+![YouTube Growth Guide Header](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765985919165-Generated%20Image%20December%2017%2C%202025%20-%2010_38AM.jpeg?alt=media&token=fe7a524c-ee33-4132-b5e9-f75f9fc5ac33)
+
+</div>
 
 ## 📋 Table of Contents
 
@@ -331,4 +337,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Last updated: 2024*
+*Last updated: 2025*

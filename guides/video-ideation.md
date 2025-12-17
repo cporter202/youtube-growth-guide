@@ -137,7 +137,7 @@ Our comprehensive framework generates ideas across five dimensions:
 
 **Video Ideas:**
 - "Fitness for Beginners: Complete Guide"
-- "Photography Learning Path (2024)"
+- "Photography Learning Path (2025)"
 - "Common Fitness Mistakes and How to Fix Them"
 
 ### Method 2: Trend Analysis

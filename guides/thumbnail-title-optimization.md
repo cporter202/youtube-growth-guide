@@ -93,7 +93,7 @@ Understanding the evolution helps you appreciate why thumbnails matter:
 
 **2020:** Birth of YouTube Shorts (vertical video)
 
-**2024:** YouTube rolled out "Test and Compare" allowing creators to upload up to 3 thumbnails per video
+**2024:** YouTube rolled out "Test and Compare" allowing creators to upload up to 3 thumbnails per video (feature continues in 2025)
 
 ### How to Enable YouTube Thumbnails
 
@@ -1155,7 +1155,7 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 
 **Examples:**
 - "The Ultimate Fitness Guide for Beginners"
-- "Complete YouTube Growth Strategy (2024)"
+- "Complete YouTube Growth Strategy (2025)"
 - "The Ultimate Guide to Productivity: Everything You Need to Know"
 
 **Why It Works:**
@@ -1402,7 +1402,7 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 - Capitalize on trends
 
 **Examples:**
-- New Year: "2024 Goals", "Fresh Start"
+- New Year: "2025 Goals", "Fresh Start"
 - Summer: "Summer Productivity", "Vacation Tips"
 - Back to School: "Learning Resources", "Study Tips"
 
