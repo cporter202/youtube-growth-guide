@@ -6,6 +6,20 @@
 
 **Stop guessing. Start winning.** The ultimate open-source YouTube growth guide inspired by [Creator Unlock](https://creatorunlock.com?fpr=chris95). Master the N.I.C.E.R. framework for channel audits, niche research, video ideation, thumbnail & title optimization, and data-backed growth strategies.
 
+---
+
+### 📊 Repository Stats
+
+![Guides](https://img.shields.io/badge/GUIDES-6-blue?style=for-the-badge)
+![Tools](https://img.shields.io/badge/TOOLS-12-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge)
+![Updated](https://img.shields.io/badge/UPDATED-2025-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)
+
+**Guides:** 6 Comprehensive Guides | **Tools:** 12 Creator Unlock Tools | **Status:** Active Development | **Updated:** 2025
+
+---
+
 </div>
 
 ## 📋 Table of Contents
